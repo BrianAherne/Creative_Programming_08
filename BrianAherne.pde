@@ -2,7 +2,7 @@ void setup() {
   size(480, 120);
 }
 
-void () {
+void draw() {
   if (mousePressed) {
     fill(0);
   } else {
